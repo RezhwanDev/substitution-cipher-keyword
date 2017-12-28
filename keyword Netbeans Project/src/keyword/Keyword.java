@@ -1,7 +1,6 @@
 /**
  * @author Rezhwan Sidiq
  * 21/Nov/2017
- * MidtermExam Study (-_-
  * 22:10
  */
 package keyword;
